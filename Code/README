@@ -1,0 +1,7 @@
+Usage:
+
+python <script> <No. of factors> <dataset> <datasubset no.>
+
+./run_dataset_5_40.sh <script> ml-100k
+
+./seed.sh	<script>  ml-100k-subset  
